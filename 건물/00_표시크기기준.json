@@ -1,0 +1,220 @@
+{
+  "revision": 1,
+  "date": "2026-11-10",
+  "reference": {
+    "family": "rustic1",
+    "source": "건물/민가/민가_1/민가_1.png",
+    "front_scale": 0.7811051417278666,
+    "front_width_tiles": 5.2
+  },
+  "policy": "Use fixed uniform scale per asset, not per plot. Keep vertical proportions and source PNG. Rear views share the front footprint; compensate for measured front-span pixel difference.",
+  "assets": {
+    "rustic1": {
+      "front_scale": 0.781105142,
+      "reference_scale_ratio": 1.0,
+      "sources": [
+        "건물/민가/민가_1/민가_1.png",
+        "건물/민가/민가_1/민가_1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "rustic2": {
+      "front_scale": 0.76,
+      "reference_scale_ratio": 0.97298,
+      "sources": [
+        "건물/민가/민가_2/민가_2.png",
+        "건물/민가/민가_2/민가_2_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "house": {
+      "front_scale": 0.78,
+      "reference_scale_ratio": 0.998585,
+      "sources": [
+        "건물/수수한 민가 1/수수한 민가 1.png",
+        "건물/수수한 민가 1/수수한 민가 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "bright_house": {
+      "front_scale": 0.72,
+      "reference_scale_ratio": 0.921771,
+      "sources": [
+        "건물/화사한 민가 1/화사한 민가 1.png",
+        "건물/화사한 민가 1/화사한 민가 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "twohouse": {
+      "front_scale": 0.94,
+      "reference_scale_ratio": 1.203423,
+      "sources": [
+        "건물/격식 있는 2층 민가 1/격식 있는 2층 민가 1.png",
+        "건물/격식 있는 2층 민가 1/격식 있는 2층 민가 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "workshop": {
+      "front_scale": 0.8,
+      "reference_scale_ratio": 1.02419,
+      "sources": [
+        "건물/수수한 공방 1/수수한 공방 1.png",
+        "건물/수수한 공방 1/수수한 공방 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "warehouse": {
+      "front_scale": 0.86,
+      "reference_scale_ratio": 1.101004,
+      "sources": [
+        "건물/수수한 창고 1/수수한 창고 1.png",
+        "건물/수수한 창고 1/수수한 창고 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "warehouse2": {
+      "front_scale": 0.82,
+      "reference_scale_ratio": 1.049795,
+      "sources": [
+        "건물/수수한 창고 2/수수한 창고 2.png",
+        "건물/수수한 창고 2/수수한 창고 2_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "barn": {
+      "front_scale": 0.8,
+      "reference_scale_ratio": 1.02419,
+      "sources": [
+        "건물/수수한 헛간 1/수수한 헛간 1.png",
+        "건물/수수한 헛간 1/수수한 헛간 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "stable": {
+      "front_scale": 0.8,
+      "reference_scale_ratio": 1.02419,
+      "sources": [
+        "건물/수수한 마구간 1/수수한 마구간 1.png",
+        "건물/수수한 마구간 1/수수한 마구간 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "government": {
+      "front_scale": 0.84,
+      "reference_scale_ratio": 1.075399,
+      "sources": [
+        "건물/수수한 관아 본채 1/수수한 관아 본채 1.png",
+        "건물/수수한 관아 본채 1/수수한 관아 본채 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "martial": {
+      "front_scale": 0.84,
+      "reference_scale_ratio": 1.075399,
+      "sources": [
+        "건물/수수한 무관 본채 1/수수한 무관 본채 1.png",
+        "건물/수수한 무관 본채 1/수수한 무관 본채 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "hall": {
+      "front_scale": 0.88,
+      "reference_scale_ratio": 1.126609,
+      "sources": [
+        "건물/격식 있는 2층 회관 1/격식 있는 2층 회관 1.png",
+        "건물/격식 있는 2층 회관 1/격식 있는 2층 회관 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "inn": {
+      "front_scale": 0.92,
+      "reference_scale_ratio": 1.177818,
+      "sources": [
+        "건물/수수한 2층 객잔 1/수수한 2층 객잔 1.png",
+        "건물/수수한 2층 객잔 1/수수한 2층 객잔 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "bright_inn": {
+      "front_scale": 0.9,
+      "reference_scale_ratio": 1.152214,
+      "sources": [
+        "건물/화사한 2층 객잔 1/화사한 2층 객잔 1.png",
+        "건물/화사한 2층 객잔 1/화사한 2층 객잔 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "shop": {
+      "front_scale": 0.86,
+      "reference_scale_ratio": 1.101004,
+      "sources": [
+        "건물/수수한 2층 점포 1/수수한 2층 점포 1.png",
+        "건물/수수한 2층 점포 1/수수한 2층 점포 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "bookshop": {
+      "front_scale": 0.86,
+      "reference_scale_ratio": 1.101004,
+      "sources": [
+        "건물/단정한 2층 서점 1/단정한 2층 서점 1.png",
+        "건물/단정한 2층 서점 1/단정한 2층 서점 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "teahouse": {
+      "front_scale": 0.84,
+      "reference_scale_ratio": 1.075399,
+      "sources": [
+        "건물/화사한 2층 찻집 1/화사한 2층 찻집 1.png",
+        "건물/화사한 2층 찻집 1/화사한 2층 찻집 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "silk": {
+      "front_scale": 0.84,
+      "reference_scale_ratio": 1.075399,
+      "sources": [
+        "건물/화사한 2층 비단점 1/화사한 2층 비단점 1.png",
+        "건물/화사한 2층 비단점 1/화사한 2층 비단점 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    },
+    "shrine": {
+      "front_scale": 0.82,
+      "reference_scale_ratio": 1.049795,
+      "sources": [
+        "건물/수수한 사당 본채 1/수수한 사당 본채 1.png",
+        "건물/수수한 사당 본채 1/수수한 사당 본채 1_뒷편.png"
+      ],
+      "category": "single_storey"
+    },
+    "vegetable": {
+      "front_scale": 0.344086022,
+      "reference_scale_ratio": 0.440512,
+      "sources": [
+        "건물/수수한 채소 노점 1/수수한 채소 노점 1.png",
+        "건물/수수한 채소 노점 1/수수한 채소 노점 1_뒷편.png"
+      ],
+      "category": "stall"
+    },
+    "general": {
+      "front_scale": 0.355555556,
+      "reference_scale_ratio": 0.455196,
+      "sources": [
+        "건물/수수한 잡화 노점 1/수수한 잡화 노점 1.png",
+        "건물/수수한 잡화 노점 1/수수한 잡화 노점 1_뒷편.png"
+      ],
+      "category": "stall"
+    },
+    "ornate_inn": {
+      "front_scale": 0.88,
+      "reference_scale_ratio": 1.126609,
+      "sources": [
+        "건물/화려한 2층 객잔 1/화려한 2층 객잔 1.png",
+        "건물/화려한 2층 객잔 1/화려한 2층 객잔 1_뒷편.png"
+      ],
+      "category": "two_storey"
+    }
+  }
+}
