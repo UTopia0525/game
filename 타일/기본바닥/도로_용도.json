@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "scope": "장사 자동 생성 시험의 사용자 지정 용도. 원본 PNG 바이트/배율 변경 없음.",
+  "roles": {
+    "main_cross": {
+      "name": "대로 돌바닥 타일",
+      "source": "타일/기본바닥/대로_돌바닥_타일.png",
+      "previous_name": "돌포장_밝은판석.png",
+      "sha256": "c1212126e40ec70d4bff00c144ac25855bf1fab0a2aa83997cd24a71c5662a7d",
+      "usage": "장사 중앙 십자 대로 두 축과 해당 대로의 평면 경계에만 사용",
+      "runtime_texture": "res://assets/cities/changsha/terrain/paving.png"
+    },
+    "alley": {
+      "name": "골목길 돌바닥 타일",
+      "source": "타일/기본바닥/골목길_돌바닥_타일.png",
+      "previous_name": "돌포장_소박한회색돌.png",
+      "sha256": "74f04134a7b210931603a432026d026919d7bf8e1521d601cad6997b4f3feb6e",
+      "usage": "지정 골목·구역 연결로·필요한 건물 진입로에만 사용. 노점 지선과 무작위 면 채움 금지",
+      "runtime_texture": "res://assets/cities/changsha/terrain/stone.png"
+    }
+  }
+}
