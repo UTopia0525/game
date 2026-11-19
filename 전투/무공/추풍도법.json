@@ -1,0 +1,14 @@
+{
+  "id": "chupung",
+  "name": "추풍도법",
+  "grade": "low",
+  "style": "saber",
+  "cast": 8,
+  "recovery": 13,
+  "cost": 70,
+  "cells": [],
+  "strength": 6,
+  "inner": 2,
+  "dash": 3,
+  "source": "G_H"
+}

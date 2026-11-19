@@ -1,0 +1,16 @@
+{
+  "id": "cheolsan",
+  "name": "철산권법",
+  "grade": "low",
+  "style": "none",
+  "cast": 7,
+  "recovery": 9,
+  "cost": 85,
+  "cells": [
+    7
+  ],
+  "base": 10,
+  "strength": 2,
+  "inner": 5,
+  "source": "G_H"
+}

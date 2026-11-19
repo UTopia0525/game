@@ -1,0 +1,22 @@
+{
+  "id": "cheongpung",
+  "name": "청풍검법",
+  "grade": "low",
+  "style": "sword",
+  "cast": 10,
+  "recovery": 5,
+  "cost": 120,
+  "cells": [
+    3,
+    7,
+    11
+  ],
+  "strength": 6,
+  "inner": 2,
+  "advance": 1,
+  "guard": 20,
+  "source": "G_H",
+  "decisions": [
+    "전진 후 위치를 새6번으로 삼아3·7·11 공격"
+  ]
+}

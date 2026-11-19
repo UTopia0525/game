@@ -1,0 +1,26 @@
+{
+  "id": "yusu",
+  "name": "유수검법",
+  "grade": "low",
+  "style": "sword",
+  "cast": 8,
+  "recovery": 8,
+  "cost": 60,
+  "cells": [
+    2,
+    5,
+    7,
+    10
+  ],
+  "strength": 3,
+  "inner": 2,
+  "retreat": 1,
+  "push": 1,
+  "push_mode": "radial",
+  "guard": 20,
+  "source": "G_H",
+  "decisions": [
+    "밀치기는 시전자에게서 멀어지는 방향1칸",
+    "빗나가도 후퇴"
+  ]
+}

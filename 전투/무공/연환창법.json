@@ -1,0 +1,23 @@
+{
+  "id": "yeonhwan",
+  "name": "연환창법",
+  "grade": "low",
+  "style": "spear",
+  "cast": 7,
+  "recovery": 12,
+  "cost": 70,
+  "cells": [
+    3,
+    4,
+    7,
+    8,
+    11,
+    12
+  ],
+  "base": 220,
+  "strength": 1,
+  "inner": 1,
+  "push": 1,
+  "push_mode": "near_column",
+  "source": "G_H"
+}

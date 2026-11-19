@@ -1,0 +1,17 @@
+{
+  "id": "danseok",
+  "name": "단석도법",
+  "grade": "low",
+  "style": "saber",
+  "cast": 11,
+  "recovery": 11,
+  "cost": 90,
+  "cells": [
+    7,
+    10,
+    11
+  ],
+  "strength": 10,
+  "inner": 2,
+  "source": "G_H"
+}
