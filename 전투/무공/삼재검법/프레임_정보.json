@@ -1,0 +1,224 @@
+{
+  "skill": "samjae",
+  "source_sha256": "d9e573a3ac1311c2d4bf18f27ca3f1e86be8593c6901152e155034bca192b5ca",
+  "cell_px": [
+    512,
+    512
+  ],
+  "grid": [
+    4,
+    3
+  ],
+  "order": "row-major",
+  "proposed_registration_px": [
+    256,
+    500
+  ],
+  "preview_only": true,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 전투 대기",
+      "source": "idle",
+      "source_cel": 1,
+      "preview_ms_rounded": 480,
+      "translation_px": [
+        64,
+        0
+      ],
+      "foot_sample_px": {
+        "rear_x": 132,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 2,
+      "pose": "준비",
+      "source": "key",
+      "source_cel": 1,
+      "preview_ms_rounded": 90,
+      "translation_px": [
+        -12,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 132,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 3,
+      "pose": "들어올리기 시작",
+      "source": "bridge",
+      "source_cel": 1,
+      "preview_ms_rounded": 70,
+      "translation_px": [
+        -174,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 128,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 4,
+      "pose": "들어올리기",
+      "source": "key",
+      "source_cel": 2,
+      "preview_ms_rounded": 80,
+      "translation_px": [
+        10,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 127,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 5,
+      "pose": "검 들기 연결",
+      "source": "bridge",
+      "source_cel": 2,
+      "preview_ms_rounded": 70,
+      "translation_px": [
+        -86,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 126,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 6,
+      "pose": "머리 위 대기",
+      "source": "key",
+      "source_cel": 3,
+      "preview_ms_rounded": 190,
+      "translation_px": [
+        7,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 124,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 7,
+      "pose": "내려베기 시작",
+      "source": "bridge",
+      "source_cel": 3,
+      "preview_ms_rounded": 50,
+      "translation_px": [
+        -182,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 120,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 8,
+      "pose": "내려베기",
+      "source": "key",
+      "source_cel": 4,
+      "preview_ms_rounded": 70,
+      "translation_px": [
+        -8,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 109,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 9,
+      "pose": "여세",
+      "source": "key",
+      "source_cel": 5,
+      "preview_ms_rounded": 120,
+      "translation_px": [
+        6,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 111,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 10,
+      "pose": "자세 정리 연결",
+      "source": "bridge",
+      "source_cel": 4,
+      "preview_ms_rounded": 90,
+      "translation_px": [
+        -92,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 118,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 11,
+      "pose": "복귀",
+      "source": "key",
+      "source_cel": 6,
+      "preview_ms_rounded": 140,
+      "translation_px": [
+        6,
+        21
+      ],
+      "foot_sample_px": {
+        "rear_x": 125,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    },
+    {
+      "frame": 12,
+      "pose": "기존 전투 대기",
+      "source": "idle",
+      "source_cel": 1,
+      "preview_ms_rounded": 620,
+      "translation_px": [
+        64,
+        0
+      ],
+      "foot_sample_px": {
+        "rear_x": 132,
+        "front_x": 324,
+        "sample_y": 487,
+        "bottom_y": 499
+      }
+    }
+  ]
+}
