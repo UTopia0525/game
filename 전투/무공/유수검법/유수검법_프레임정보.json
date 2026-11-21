@@ -1,0 +1,141 @@
+{
+  "skill_id": "yusu",
+  "facing": "screen_right",
+  "sheet": "유수검법_시트.png",
+  "grid": [
+    4,
+    2
+  ],
+  "cell_size_px": [
+    640,
+    512
+  ],
+  "registration_candidate_px": [
+    256,
+    500
+  ],
+  "playback_order": "row_major",
+  "preview_is_presentation_only": true,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 대기",
+      "art": "기존 대기 원화",
+      "preview_duration_ms": 450,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        0,
+        0
+      ],
+      "feet_sample_px": [
+        134,
+        322
+      ]
+    },
+    {
+      "frame": 2,
+      "pose": "검에 물결 싣기",
+      "art": "시안",
+      "preview_duration_ms": 150,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        31,
+        0
+      ],
+      "feet_sample_px": [
+        160,
+        353
+      ]
+    },
+    {
+      "frame": 3,
+      "pose": "가슴 높이에서 사선으로 들어가기",
+      "art": "추가",
+      "preview_duration_ms": 70,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        32,
+        14
+      ],
+      "feet_sample_px": [
+        149,
+        363
+      ]
+    },
+    {
+      "frame": 4,
+      "pose": "짧게 비스듬히 베기",
+      "art": "시안",
+      "preview_duration_ms": 110,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        31,
+        0
+      ],
+      "feet_sample_px": [
+        129,
+        383
+      ]
+    },
+    {
+      "frame": 5,
+      "pose": "앞발을 딛고 뒷발 빼기",
+      "art": "추가",
+      "preview_duration_ms": 100,
+      "preview_horizontal_offset_cells": -0.08,
+      "translation_px": [
+        68,
+        18
+      ],
+      "feet_sample_px": [
+        152,
+        398
+      ]
+    },
+    {
+      "frame": 6,
+      "pose": "뒷발에 체중 싣기",
+      "art": "시안",
+      "preview_duration_ms": 110,
+      "preview_horizontal_offset_cells": -0.96,
+      "translation_px": [
+        22,
+        0
+      ],
+      "feet_sample_px": [
+        127,
+        360
+      ]
+    },
+    {
+      "frame": 7,
+      "pose": "앞발을 거두며 물결 흩어지기",
+      "art": "추가",
+      "preview_duration_ms": 120,
+      "preview_horizontal_offset_cells": -1,
+      "translation_px": [
+        10,
+        15
+      ],
+      "feet_sample_px": [
+        134,
+        348
+      ]
+    },
+    {
+      "frame": 8,
+      "pose": "기존 대기",
+      "art": "기존 대기 원화",
+      "preview_duration_ms": 550,
+      "preview_horizontal_offset_cells": -1,
+      "translation_px": [
+        0,
+        0
+      ],
+      "feet_sample_px": [
+        134,
+        322
+      ]
+    }
+  ]
+}

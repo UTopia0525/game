@@ -1,0 +1,141 @@
+{
+  "skill_id": "cheongpung",
+  "facing": "screen_right",
+  "sheet": "청풍검법_시트.png",
+  "grid": [
+    4,
+    2
+  ],
+  "cell_size_px": [
+    640,
+    512
+  ],
+  "registration_candidate_px": [
+    256,
+    500
+  ],
+  "playback_order": "row_major",
+  "preview_is_presentation_only": true,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 대기",
+      "art": "기존 대기 원화",
+      "preview_duration_ms": 450,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        0,
+        0
+      ],
+      "feet_sample_px": [
+        134,
+        322
+      ]
+    },
+    {
+      "frame": 2,
+      "pose": "바람 모으기",
+      "art": "시안",
+      "preview_duration_ms": 140,
+      "preview_horizontal_offset_cells": 0,
+      "translation_px": [
+        30,
+        0
+      ],
+      "feet_sample_px": [
+        148,
+        364
+      ]
+    },
+    {
+      "frame": 3,
+      "pose": "뒷발로 밀며 앞발 내밀기",
+      "art": "추가",
+      "preview_duration_ms": 90,
+      "preview_horizontal_offset_cells": 0.24,
+      "translation_px": [
+        43,
+        14
+      ],
+      "feet_sample_px": [
+        149,
+        363
+      ]
+    },
+    {
+      "frame": 4,
+      "pose": "앞발 착지",
+      "art": "시안",
+      "preview_duration_ms": 90,
+      "preview_horizontal_offset_cells": 1,
+      "translation_px": [
+        25,
+        0
+      ],
+      "feet_sample_px": [
+        91,
+        407
+      ]
+    },
+    {
+      "frame": 5,
+      "pose": "허리를 돌려 검을 가로로 보내기",
+      "art": "추가",
+      "preview_duration_ms": 60,
+      "preview_horizontal_offset_cells": 1,
+      "translation_px": [
+        45,
+        14
+      ],
+      "feet_sample_px": [
+        123,
+        407
+      ]
+    },
+    {
+      "frame": 6,
+      "pose": "가로베기와 바람 확산",
+      "art": "시안",
+      "preview_duration_ms": 100,
+      "preview_horizontal_offset_cells": 1,
+      "translation_px": [
+        32,
+        0
+      ],
+      "feet_sample_px": [
+        106,
+        407
+      ]
+    },
+    {
+      "frame": 7,
+      "pose": "뒷발을 거두고 검 내리기",
+      "art": "추가",
+      "preview_duration_ms": 140,
+      "preview_horizontal_offset_cells": 1,
+      "translation_px": [
+        26,
+        14
+      ],
+      "feet_sample_px": [
+        177,
+        373
+      ]
+    },
+    {
+      "frame": 8,
+      "pose": "기존 대기",
+      "art": "기존 대기 원화",
+      "preview_duration_ms": 550,
+      "preview_horizontal_offset_cells": 1,
+      "translation_px": [
+        0,
+        0
+      ],
+      "feet_sample_px": [
+        134,
+        322
+      ]
+    }
+  ]
+}
