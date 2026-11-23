@@ -1,0 +1,69 @@
+{
+  "skill_id": "ungi",
+  "weapon": "맨손",
+  "direction": "screen_right",
+  "grid": [
+    4,
+    2
+  ],
+  "cell_px": [
+    896,
+    576
+  ],
+  "registration_candidate_px": [
+    384,
+    548
+  ],
+  "preview_ms_only": true,
+  "impact_pose_frame_candidate": 5,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 전투 대기",
+      "duration_ms": 450,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 2,
+      "pose": "빈손을 가슴 앞으로",
+      "duration_ms": 100,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 3,
+      "pose": "양 손바닥 사이에 기운 모으기",
+      "duration_ms": 170,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 4,
+      "pose": "한 손바닥을 앞으로",
+      "duration_ms": 70,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 5,
+      "pose": "장력을 넓게 내보내기",
+      "duration_ms": 100,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 6,
+      "pose": "기운 흩어짐과 손 회수",
+      "duration_ms": 140,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 7,
+      "pose": "빈손 대기 복귀",
+      "duration_ms": 160,
+      "preview_forward_offset_cells": 0
+    },
+    {
+      "frame": 8,
+      "pose": "기존 전투 대기",
+      "duration_ms": 520,
+      "preview_forward_offset_cells": 0
+    }
+  ]
+}
