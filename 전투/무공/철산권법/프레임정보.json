@@ -1,0 +1,63 @@
+{
+  "skill_id": "cheolsan",
+  "weapon": "맨손",
+  "direction": "screen_right",
+  "grid": [
+    4,
+    2
+  ],
+  "cell_px": [
+    896,
+    576
+  ],
+  "registration_candidate_px": [
+    384,
+    548
+  ],
+  "preview_ms_only": true,
+  "impact_pose_frame_candidate": 5,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 전투 대기",
+      "duration_ms": 450
+    },
+    {
+      "frame": 2,
+      "pose": "무릎을 굽혀 준비",
+      "duration_ms": 90
+    },
+    {
+      "frame": 3,
+      "pose": "옆구리로 주먹 당기기",
+      "duration_ms": 140
+    },
+    {
+      "frame": 4,
+      "pose": "체중을 실어 내보내기",
+      "duration_ms": 60
+    },
+    {
+      "frame": 5,
+      "pose": "짧고 묵직한 일격",
+      "duration_ms": 80
+    },
+    {
+      "frame": 6,
+      "pose": "주먹 거두기",
+      "duration_ms": 110
+    },
+    {
+      "frame": 7,
+      "pose": "양손을 대기로 복귀",
+      "duration_ms": 160
+    },
+    {
+      "frame": 8,
+      "pose": "기존 전투 대기",
+      "duration_ms": 520
+    }
+  ],
+  "baked_fx": "애니메이션.png의 4·5·6 프레임에 추가 효과 포함",
+  "additional_fx_layer": "추가효과.png는 강화에 사용한 추가 레이어이며, 합성본과 동시에 적용하지 않는다."
+}

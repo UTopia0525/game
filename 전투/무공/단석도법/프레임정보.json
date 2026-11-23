@@ -1,0 +1,61 @@
+{
+  "skill_id": "danseok",
+  "weapon": "도",
+  "direction": "screen_right",
+  "grid": [
+    4,
+    2
+  ],
+  "cell_px": [
+    896,
+    576
+  ],
+  "registration_candidate_px": [
+    384,
+    548
+  ],
+  "preview_ms_only": true,
+  "impact_pose_frame_candidate": 5,
+  "frames": [
+    {
+      "frame": 1,
+      "pose": "기존 전투 대기",
+      "duration_ms": 450
+    },
+    {
+      "frame": 2,
+      "pose": "도를 거두기",
+      "duration_ms": 110
+    },
+    {
+      "frame": 3,
+      "pose": "어깨 뒤로 들어 힘 모으기",
+      "duration_ms": 230
+    },
+    {
+      "frame": 4,
+      "pose": "사선 베기 시작",
+      "duration_ms": 70
+    },
+    {
+      "frame": 5,
+      "pose": "묵직한 내려베기",
+      "duration_ms": 90
+    },
+    {
+      "frame": 6,
+      "pose": "낮은 여세",
+      "duration_ms": 150
+    },
+    {
+      "frame": 7,
+      "pose": "도를 거두며 복귀",
+      "duration_ms": 190
+    },
+    {
+      "frame": 8,
+      "pose": "기존 전투 대기",
+      "duration_ms": 520
+    }
+  ]
+}
