@@ -1,0 +1,50 @@
+{
+  "weapon": "창",
+  "facing": "screen_right",
+  "grid": [
+    4,
+    1
+  ],
+  "cell_px": [
+    896,
+    512
+  ],
+  "registration_candidate_px": [
+    384,
+    500
+  ],
+  "poses": [
+    {
+      "pose": "대기",
+      "index": 0,
+      "foot_sample_px": [
+        362,
+        499
+      ]
+    },
+    {
+      "pose": "공격",
+      "index": 1,
+      "foot_sample_px": [
+        361,
+        499
+      ]
+    },
+    {
+      "pose": "방어",
+      "index": 2,
+      "foot_sample_px": [
+        362,
+        499
+      ]
+    },
+    {
+      "pose": "피격",
+      "index": 3,
+      "foot_sample_px": [
+        362,
+        499
+      ]
+    }
+  ]
+}
