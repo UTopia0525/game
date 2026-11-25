@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "status": "검 도원과 동일한 낮은 이동 타이밍으로 시연한 원화 검토본",
+  "texture": "점프자세.png",
+  "frame_size_px": [
+    896,
+    512
+  ],
+  "sheet_grid": [
+    4,
+    1
+  ],
+  "pivot_px": [
+    384,
+    500
+  ],
+  "pose_order": [
+    "준비",
+    "도약",
+    "공중",
+    "착지"
+  ],
+  "only_action": "move",
+  "time_domain": "render_seconds",
+  "anticipation_seconds": 0.06,
+  "flight_seconds": 0.3,
+  "landing_seconds": 0.1,
+  "height_in_cells": 0.35,
+  "anticipation_pose": 0,
+  "flight_pose": 1,
+  "landing_pose": 3,
+  "settle_pose": 1,
+  "settle_switch_fraction": 0.55,
+  "apply_to": [
+    "자발적 기본 이동"
+  ],
+  "exclude": [
+    "돌진",
+    "밀치기",
+    "후퇴"
+  ],
+  "note": "기존 전투자세.png는 유지. 대기 복귀에는 기존 전투자세를 사용. 공중 무적·비용·판정 변경 없음."
+}
