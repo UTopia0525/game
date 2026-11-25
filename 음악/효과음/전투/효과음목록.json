@@ -93,27 +93,6 @@
       "duration_s": 0.542,
       "peak_dbfs": -6,
       "use": "무릎이 먼저 닿고 몸이 쓰러지는 순간. 교전 종료음과는 별개다."
-    },
-    {
-      "event": "fx_gwanpung",
-      "file": "05_무공보조/관풍창법_직선바람.wav",
-      "duration_s": 0.293,
-      "peak_dbfs": -9,
-      "use": "기본 창 소리와 겹치는 날카로운 직선 풍압."
-    },
-    {
-      "event": "fx_yeonhwan",
-      "file": "05_무공보조/연환창법_감기는바람.wav",
-      "duration_s": 0.377,
-      "peak_dbfs": -9,
-      "use": "연결된 고리 궤적을 위한 두 겹 바람. 타격음은 별도다."
-    },
-    {
-      "event": "fx_baegun",
-      "file": "05_무공보조/백운장_펴지는장풍.wav",
-      "duration_s": 0.442,
-      "peak_dbfs": -8.5,
-      "use": "열린 손바닥에서 넓게 퍼지는 기운. 실제 밀치기 소리는 별도다."
     }
   ]
 }
