@@ -1,0 +1,119 @@
+{
+  "sample_rate_hz": 48000,
+  "bit_depth": 16,
+  "channels": 1,
+  "sounds": [
+    {
+      "event": "swing_sword",
+      "file": "01_공격/검_휘두름.wav",
+      "duration_s": 0.246,
+      "peak_dbfs": -6.5,
+      "use": "검이 궤적을 그리기 시작할 때. 빗나감에서도 사용한다."
+    },
+    {
+      "event": "swing_saber",
+      "file": "01_공격/도_휘두름.wav",
+      "duration_s": 0.337,
+      "peak_dbfs": -6,
+      "use": "도가 내려오기 시작할 때. 단석도법은 실제 명중 시 무거운 명중을 겹친다."
+    },
+    {
+      "event": "swing_spear",
+      "file": "01_공격/창_찌르기.wav",
+      "duration_s": 0.235,
+      "peak_dbfs": -6.5,
+      "use": "창을 내보내는 순간. 명중음과 독립적으로 재생한다."
+    },
+    {
+      "event": "swing_unarmed",
+      "file": "01_공격/맨손_소매스침.wav",
+      "duration_s": 0.184,
+      "peak_dbfs": -8,
+      "use": "주먹이나 장을 내보낼 때 쓰는 짧은 소매 바람."
+    },
+    {
+      "event": "hit_light",
+      "file": "02_판정/일반_명중.wav",
+      "duration_s": 0.195,
+      "peak_dbfs": -4.5,
+      "use": "피해가 확정된 접촉 시점에 한 번."
+    },
+    {
+      "event": "hit_heavy",
+      "file": "02_판정/무거운_명중.wav",
+      "duration_s": 0.304,
+      "peak_dbfs": -3.5,
+      "use": "단석도법·철산권법의 무거운 명중 후보. 일반 명중과 둘 중 하나를 쓴다."
+    },
+    {
+      "event": "block",
+      "file": "02_판정/방어_막기.wav",
+      "duration_s": 0.222,
+      "peak_dbfs": -5.5,
+      "use": "공격이 방어로 막힌 접촉에 재생한다. 현재 버전은 무기 방어 중심이다."
+    },
+    {
+      "event": "bandit_tell",
+      "file": "03_예고와이동/산적_공격예고.wav",
+      "duration_s": 0.299,
+      "peak_dbfs": -10,
+      "use": "도를 들어 올리는 공용 예고가 시작할 때 한 번. 유지 프레임에서 반복하지 않는다."
+    },
+    {
+      "event": "hop_push",
+      "file": "03_예고와이동/낮은도약_발구름.wav",
+      "duration_s": 0.188,
+      "peak_dbfs": -8.5,
+      "use": "낮은 도약에서 땅을 밀어 발을 떼는 순간."
+    },
+    {
+      "event": "hop_land",
+      "file": "03_예고와이동/낮은도약_착지.wav",
+      "duration_s": 0.244,
+      "peak_dbfs": -6.5,
+      "use": "착지 자세가 지면에 닿을 때. 시안의 흙바닥 기준이다."
+    },
+    {
+      "event": "forced_slide",
+      "file": "04_추가/밀치기_발끌림.wav",
+      "duration_s": 0.337,
+      "peak_dbfs": -8,
+      "use": "실제 밀치기가 적용되어 피격자의 발이 끌리는 동안."
+    },
+    {
+      "event": "qi_gather",
+      "file": "04_추가/내기모으기_숨.wav",
+      "duration_s": 0.638,
+      "peak_dbfs": -11,
+      "use": "숨 고르기나 내기 모으기용 짧은 들숨과 잔향."
+    },
+    {
+      "event": "fall_defeated",
+      "file": "04_추가/전투불능_쓰러짐.wav",
+      "duration_s": 0.542,
+      "peak_dbfs": -6,
+      "use": "무릎이 먼저 닿고 몸이 쓰러지는 순간. 교전 종료음과는 별개다."
+    },
+    {
+      "event": "fx_gwanpung",
+      "file": "05_무공보조/관풍창법_직선바람.wav",
+      "duration_s": 0.293,
+      "peak_dbfs": -9,
+      "use": "기본 창 소리와 겹치는 날카로운 직선 풍압."
+    },
+    {
+      "event": "fx_yeonhwan",
+      "file": "05_무공보조/연환창법_감기는바람.wav",
+      "duration_s": 0.377,
+      "peak_dbfs": -9,
+      "use": "연결된 고리 궤적을 위한 두 겹 바람. 타격음은 별도다."
+    },
+    {
+      "event": "fx_baegun",
+      "file": "05_무공보조/백운장_펴지는장풍.wav",
+      "duration_s": 0.442,
+      "peak_dbfs": -8.5,
+      "use": "열린 손바닥에서 넓게 퍼지는 기운. 실제 밀치기 소리는 별도다."
+    }
+  ]
+}
