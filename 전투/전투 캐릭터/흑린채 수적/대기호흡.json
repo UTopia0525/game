@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "texture": "전투자세.png",
+  "frame_size_px": [
+    384,
+    512
+  ],
+  "sheet_grid": [
+    4,
+    1
+  ],
+  "pose_order": [
+    "대기",
+    "공격",
+    "방어",
+    "피격"
+  ],
+  "pivot_px": [
+    192,
+    500
+  ],
+  "idle_frame": 0,
+  "enabled": true,
+  "period_seconds": 1.85,
+  "phase_cycles": 0.37,
+  "amplitude_source_px": 6.0,
+  "rigid_until_y": 420,
+  "fixed_from_y": 485,
+  "blend_seconds": 0.18,
+  "time_domain": "render_seconds",
+  "apply_to": [
+    "대기"
+  ]
+}

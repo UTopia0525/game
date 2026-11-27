@@ -1,0 +1,23 @@
+{
+  "texture": "공격예고.png",
+  "facing": "screen_left",
+  "frame_size_px": [
+    640,
+    576
+  ],
+  "sheet_grid": [
+    2,
+    1
+  ],
+  "pivot_px": [
+    320,
+    544
+  ],
+  "pose_order": [
+    "예고 시작",
+    "예고 유지"
+  ],
+  "trigger_phase": "windup",
+  "applies_to": "흑린채 수적의 공용 공격 예고",
+  "start_seconds_max": 0.12
+}

@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "status": "흑린채 수적 검토본",
+  "texture": "점프자세.png",
+  "frame_size_px": [
+    448,
+    512
+  ],
+  "sheet_grid": [
+    4,
+    1
+  ],
+  "pivot_px": [
+    252,
+    500
+  ],
+  "pose_order": [
+    "준비",
+    "도약",
+    "공중",
+    "착지"
+  ],
+  "only_action": "move",
+  "time_domain": "render_seconds",
+  "anticipation_seconds": 0.06,
+  "flight_seconds": 0.3,
+  "landing_seconds": 0.1,
+  "height_in_cells": 0.35,
+  "anticipation_pose": 0,
+  "flight_pose": 1,
+  "landing_pose": 3,
+  "settle_pose": 0,
+  "settle_switch_fraction": 0.55,
+  "apply_to": [
+    "자발적 기본 이동"
+  ],
+  "exclude": [
+    "돌진",
+    "밀치기",
+    "후퇴"
+  ],
+  "note": "공중 높이는 화면상의 포물선으로 적용한다. 착지 후 대기 자세로 복귀한다.",
+  "apex_pose": 2,
+  "apex_flight_fraction": [
+    0.32,
+    0.72
+  ]
+}
